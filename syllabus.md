@@ -20,9 +20,9 @@ header-includes:
 
 \setstretch{1}
 
-**Location**: Zoooooooom
+**Location**: Zoooooooom (link e-mailed out)
 
-**Time**: 
+**Time**: Wednesdays 10:30 - 11:50
 
 **Instructor**: Dr. Tad Dallas (tadallas@lsu.edu)
 
@@ -39,10 +39,6 @@ header-includes:
 ## Course Overview
 
 This course is a graduate seminar focused on vector-borne disease, largely considering viral pathogens vectored by mosquitos. The plan below is subject to change and dependent on the interests of those enrolled in the course. However, the main goal is to introduce students to the wide breadth of things which influence vector-borne disease across host individuals, communities, and entire landscapes. 
-
-
-
-
 
 
 
@@ -91,8 +87,6 @@ Your grade is based largley on your participation in discussion, as well as your
 
 
 
-\bigskip
-
 
 
 
@@ -101,6 +95,10 @@ Your grade is based largley on your participation in discussion, as well as your
 \clearpage
 
 # Schedule
+
+*doi stands for digital object identifier, and is a way to more permanantly reference materials instead of links etc. Typing that into Google will take you right to the paper. If prefixed with https://doi.org/, it will take you directly to the paper. If you don't have access to the paper, use Sci-hub. It's fantastic. 
+
+
 
 | Week | Topic | Paper DOI|
 | - |  ----- | :---: |
@@ -113,7 +111,7 @@ Your grade is based largley on your participation in discussion, as well as your
 | 7  | Thermal performance curves | 10.1111/ele.13335 |
 | 8  | Individual variation | 10.1086/701169 & 10.3389/fevo.2020.00189|
 | 9  | Impact of land use | 10.1016/j.baae.2017.09.012 |
-| 10  | Impact of climate | 10.1017/s0022172400027108 |
+| 10  | Impact of climate | 10.3389/fmicb.2020.584846|
 | 11  | Climate change  | 10.1093/icb/icw049  |
 | 12  | Host viremia/vector susceptibility | 10.1093/jmedent/43.3.623 | 
 | 13  | Host phylogenetic effects | 10.1098/rstb.2019.0296 |

@@ -24,9 +24,9 @@ header-includes:
 
 **Time**: Wednesdays 10:30 - 11:50
 
-**Instructor**: Dr. Tad Dallas (tadallas@lsu.edu)
+**Instructor**: Dr. Tad Dallas (tadallas@lsu.edu) and Rebecca Christofferson (rcarri1@lsu.edu)
 
-**Office**: A343 Life Sciences
+**Office**: A343 Life Sciences (Tad Dallas) 
 
 
 

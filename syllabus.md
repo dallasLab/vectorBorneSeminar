@@ -14,7 +14,7 @@ header-includes:
 ---
 
 
-# Vector-borne disease reading group (Biol 7800)
+# Vector-borne disease reading group (Biol 7901)
 
 ---
 
@@ -22,7 +22,7 @@ header-includes:
 
 **Location**: Zoooooooom (link e-mailed out)
 
-**Time**: Wednesdays 10:30 - 11:50
+**Time**: Wednesdays 10:30 - 11:50am CST
 
 **Instructor**: Dr. Tad Dallas (tadallas@lsu.edu) and Rebecca Christofferson (rcarri1@lsu.edu)
 
@@ -62,8 +62,17 @@ This course is a graduate seminar focused on vector-borne disease, largely consi
 
 
 
+\bigskip
+
+## Respect people
+
+Discussion classes tend to self-select those that are more forthcoming with their opinions. We all come from different backgrounds, and we all have useful contributions to discussion. I will not tolerate any form of hateful speech, most notably any disrespect when it comes to gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. I will do my best to use breakout groups and get everyone to feel as though they can contribute to an open discussion, but feel free to email me (tadallas@lsu.edu) or Rebecca (rcarri1@lsu.edu) with ideas or suggestions of how we could do this better. 
+
+
+
 
 \bigskip
+
 
 
 ## Disability services
@@ -71,6 +80,7 @@ This course is a graduate seminar focused on vector-borne disease, largely consi
 My goal is to help you learn. Students who have any difficulty (either permanent or temporary) that might affect their ability to perform in class can reach out to the LSU Disability Services staff. 
 
 More information on registering a disability is available at [LSU Disability Services](https://www.lsu.edu/disability/), located at 124 Johnston Hall. Contact the Center by telephone at 225-578-5919 or via email at `disability@lsu.edu`.
+
 
 
 

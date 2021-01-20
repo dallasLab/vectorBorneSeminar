@@ -20,7 +20,7 @@ header-includes:
 
 \setstretch{1}
 
-**Location**: Zoooooooom (link e-mailed out)
+**Location**: Zoom (link e-mailed out)
 
 **Time**: Wednesdays 10:30 - 11:50am CST
 
@@ -29,19 +29,13 @@ header-includes:
 **Office**: A343 Life Sciences (Tad Dallas) 
 
 
-
-
 \bigskip
 \setstretch{1.5}
-
 
 
 ## Course Overview
 
 This course is a graduate seminar focused on vector-borne disease, largely considering viral pathogens vectored by mosquitos. The plan below is subject to change and dependent on the interests of those enrolled in the course. However, the main goal is to introduce students to the wide breadth of things which influence vector-borne disease across host individuals, communities, and entire landscapes. 
-
-
-
 
 
 
@@ -112,11 +106,11 @@ Your grade is based largley on your participation in discussion, as well as your
 
 | Week | Topic | Paper DOI|
 | - |  ----- | :---: |
-| 1  | Vector-borne disease model intro | 10.1098/rsfs.2019.0047 |
+| 1  | Vector-borne disease model intro | 10.1371/journal.pcbi.1008539 |
 | 2  | Vector-virus prediction |  10.7554/eLife.22053  &  10.1002/ecs2.3157|
 | 3  | Reservoir host prediction and competence | 10.1016/j.tree.2020.08.014 |
 | 4  | Viral emergence | 10.1016/j.pt.2017.12.004 & 10.1089/vbz.2018.2432|
-| 5  | Spatial disease prediction | 10.1002/ecs2.3157 | 
+| 5  | Spatial disease prediction | 10.1073/pnas.1806094116 | 
 | 6  | Scaling of host competence | 10.1016/j.pt.2018.12.002 |
 | 7  | Thermal performance curves | 10.1111/ele.13335 |
 | 8  | Individual variation | 10.1086/701169 & 10.3389/fevo.2020.00189|
